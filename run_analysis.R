@@ -1,5 +1,6 @@
 library(reshape2)
-setwd("/Users/nithyashetty/Documents/Career_Advancement/Course_3_Getting_Cleaning_Data/Peer_Graded_Assignment")
+## Included this line during testing. 
+##setwd("/Users/nithyashetty/Documents/Career_Advancement/Course_3_Getting_Cleaning_Data/Peer_Graded_Assignment")
 fname <- "getdata_dataset.zip"
 
 ## Step 1 : Get source data
